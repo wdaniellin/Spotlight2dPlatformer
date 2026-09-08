@@ -2,6 +2,8 @@ Created January 2025
 <h1> Simple platformer game made over the course of two days for a final project (gr. 12 cs): </h1>
 <hr>
 
+<p> <img width="720" height="480" alt="spotlightGif" src="https://github.com/user-attachments/assets/5087d159-c7a5-4d54-972c-033da5ef2215" /> </p>
+
 <h2> Features: </h2>
 <ul>
   <li>Parallax, scrolling background</li>
