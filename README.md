@@ -1,5 +1,5 @@
 Created January 2025
-<h1> Simple platformer game made over the course of two days for a final project (gr. 12 cs): </h1>
+<h1> Simple platformer game made entirely in Java: </h1>
 <hr>
 
 <p> <img width="720" height="480" alt="spotlightGif" src="https://github.com/user-attachments/assets/5087d159-c7a5-4d54-972c-033da5ef2215" /> </p>
@@ -26,4 +26,6 @@ Title Screen
 <p>
   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/dfee0356-8e75-4c2e-965b-ff7c6e87583a" />
 </p>
+
+completely done without the use of ai and made for a gr12 cs class
 
