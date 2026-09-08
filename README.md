@@ -20,5 +20,6 @@ RGB map of the level
 <img width="1007" height="130" alt="image" src="https://github.com/user-attachments/assets/9de069a3-01b6-45c3-a824-02cb40cde9a2" />
 </p>
 
+Title Screen
 <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/dfee0356-8e75-4c2e-965b-ff7c6e87583a" />
 
