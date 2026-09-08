@@ -12,7 +12,7 @@ Created January 2025
 <h3>Level Generator Demonstration</h3>
 <p> 
 Snippet of playable level running
-<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/89ab7f13-f4f9-4191-bd6c-64b5072c9bee" />
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/89ab7f13-f4f9-4191-bd6c-64b5072c9bee", style="display: block;" />
 </p>
 
 <p>
